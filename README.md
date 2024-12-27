@@ -1,2 +1,1 @@
-# HLINC
-**HLINC**: **H**a**L**lucination **I**nference via **N**eurosymbolic **C**omponents
+**H**a**L**lucination **I**nference via **N**eurosymbolic **C**omponents
