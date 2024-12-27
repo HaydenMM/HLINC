@@ -6,5 +6,5 @@
 
 <b>All thanks to "LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers" for the inspiration for this work!</b>
 <br>
-Original Paper Inspiration: https://arxiv.org/abs/2310.15164
-Original GitHub Inspiration: https://github.com/benlipkin/linc
+- Original Paper Inspiration: https://arxiv.org/abs/2310.15164
+- Original GitHub Inspiration: https://github.com/benlipkin/linc
