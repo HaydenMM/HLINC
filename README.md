@@ -1,2 +1,2 @@
 # HLINC
-HLINC: HaLlucination Inference via Neurosymbolic Components
+**HLINC**: **H**a**L**lucination **I**nference via **N**eurosymbolic **C**omponents
