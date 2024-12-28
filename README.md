@@ -6,7 +6,7 @@
 
 ## Overview
 <p align="center">
-  <img src="data/steps.png" title="HLINC stages">
+  <img src="data/stages.png" title="HLINC stages">
 </p>
 
 ## Acknowledgements
