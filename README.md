@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/logo.png" width="350" title="HLINC logo">
+  <img src="data/logo.png" width="350" title="HLINC">
   <br>
   <i><b>H</b>a<b>L</b>lucination <b>I</b>nference via <b>N</b>eurosymbolic <b>C</b>omputation</i>
 </p>
