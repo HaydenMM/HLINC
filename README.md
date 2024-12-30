@@ -4,7 +4,16 @@
   <i><b>H</b>a<b>L</b>lucination <b>I</b>nference via <b>N</b>eurosymbolic <b>C</b>omputation</i>
 </p>
 
+
+
 ## Overview
+
+HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> hallucinations in knowledge-grounded LLM conversations. Using HaluEval's Q/A dataset (a dataset generated from ChatGPT outputing accurate and hallucinated responses), we test HLINC's ability to detect and explain these hallucinations.
+	
+- **Stage 1** uses ChatGPT as a Semantic Parser, converting Knowledge-Grounded Questions and Answers into Microsoft's Z3 Logical Solver Syntax. 
+- **Stage 2** runs all of the converted code with a Z3 Logical Solver, passing each syntax/error that occurs from the logical solver back through the Semantic Parser (ChatGPT) with the added Syntax Error context.
+- **Stage 3** runs the Z3 code through the Logic Solver to detect and explain the hallucinations.  
+
 <p align="center">
   <img src="data/example_1.png" title="HLINC stages">
 </p>
