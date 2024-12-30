@@ -6,17 +6,17 @@
 
 ## Overview
 <p align="center">
-  <img src="data/example-1.png" title="HLINC stages">
+  <img src="data/example_1.png" title="HLINC stages">
 </p>
 
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
-  <img src="data/example-2.png" title="Example of the right answer with no syntax errors">
+  <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
 </p>
 
 #### Example of a Hallucinated Answer with a syntax error
 <p align="center">
-  <img src="data/example-3.png" title="Example of the hallucinated answer with syntax errors">
+  <img src="data/example_3.png" title="Example of the hallucinated answer with syntax errors">
 </p>
 
 ## Acknowledgements
