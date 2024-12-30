@@ -4,7 +4,12 @@
   <i><b>H</b>a<b>L</b>lucination <b>I</b>nference via <b>N</b>eurosymbolic <b>C</b>omputation</i>
 </p>
 
+
+
 ## Overview
+<p>
+  HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> hallucinations in knowledge-grounded LLM conversations. HLINC is broken down into three stages 
+</p>
 <p align="center">
   <img src="data/example_1.png" title="HLINC stages">
 </p>
