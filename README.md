@@ -15,7 +15,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 - **Stage 3** runs the Z3 code through the Logic Solver to detect and explain the hallucinations.  
 
 <p align="center">
-  <img src="data/example_1.png" title="HLINC stages">
+  <img src="data/example-1.png" title="HLINC stages">
 </p>
 
 ## Results
