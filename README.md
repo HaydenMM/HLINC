@@ -58,8 +58,6 @@ Stage 3 Results: ---
 ## Files
 Sematic Parser: ---
 
-Logical Solver + Semantic Parser: ---
-
 Logical Solver: ---
 
 ## Appendix
