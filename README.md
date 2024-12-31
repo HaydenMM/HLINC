@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/logo.png" width="350" title="HLINC">
+  <img src="images/logo.png" width="350" title="HLINC">
   <br>
   <i><b>H</b>a<b>L</b>lucination <b>I</b>nference via <b>N</b>eurosymbolic <b>C</b>omputation</i>
 </p>
@@ -15,7 +15,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 - **Stage 3** runs the Z3 code through the Logic Solver to detect and explain the hallucinations.  
 
 <p align="center">
-  <img src="data/example-1.png" title="HLINC stages">
+  <img src="images/example-1.png" title="HLINC stages">
 </p>
 
 ## Results
@@ -69,12 +69,12 @@ Logical Solver: ---
 ## Appendix
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
-  <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
+  <img src="images/example_2.png" title="Example of the right answer with no syntax errors">
 </p>
 
 #### Example of a Hallucinated Answer with a syntax error
 <p align="center">
-  <img src="data/example_3.png" title="Example of the hallucinated answer with syntax errors">
+  <img src="images/example_3.png" title="Example of the hallucinated answer with syntax errors">
 </p>
 
 ## Acknowledgements
