@@ -31,12 +31,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 <table>
   <tr>
     <th>Approach</th>
-    <th>Accuracy</th>
+    <th>Hallucination Detection Accuracy</th>
     <th>Explainability</th>
   </tr>
   <tr>
     <td>ChatGPT w/ Knowledge</td>
-    <td>76.83</td>
+    <td>76.83%</td>
     <td>NO</td>
   </tr>
   <tr>
