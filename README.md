@@ -49,6 +49,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </body>
 </html>
 
+Stage 1 Results: ---
+
+Stage 2 Results: ---
+
+Stage 3 Results: ---
+
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
   <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
