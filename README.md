@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/logo.png" width="350" title="HLINC">
+  <img src="images/logo.png" width="350" title="HLINC">
   <br>
   <i><b>H</b>a<b>L</b>lucination <b>I</b>nference via <b>N</b>eurosymbolic <b>C</b>omputation</i>
 </p>
@@ -15,8 +15,9 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 - **Stage 3** runs the Z3 code through the Logic Solver to detect and explain the hallucinations.  
 
 <p align="center">
-  <img src="data/example-1.png" title="HLINC stages">
+  <img src="images/example-1.png" title="HLINC stages">
 </p>
+
 
 ## Results
 
@@ -41,7 +42,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   </tr>
   <tr>
     <td>HLINC w/ Knowledge</td>
-    <td>72.62%</td>
+    <td>71.49%</td>
     <td>YES</td>
   </tr>
 </table>
@@ -49,32 +50,31 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </body>
 </html>
 
-Stage 1 Results: ---
+Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1.txt)
 
-Stage 1 Explainations: ---
+Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2.txt)
 
-Stage 2 Results: ---
 
-Stage 2 Explainations: ---
-
-Stage 3 Results: ---
-
-Stage 3 Explainations: ---
 
 ## Files
-Sematic Parser: ---
+Z3 Sematic Parser: [notebooks/z3_semantic_parser.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_semantic_parser.ipynb)
 
-Logical Solver: ---
+Z3 Logical Solver: [notebooks/z3_logical_solver.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_logical_solver.ipynb)
+
+
+<br>
+
+
 
 ## Appendix
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
-  <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
+  <img src="images/example_2.png" title="Example of the right answer with no syntax errors">
 </p>
 
 #### Example of a Hallucinated Answer with a syntax error
 <p align="center">
-  <img src="data/example_3.png" title="Example of the hallucinated answer with syntax errors">
+  <img src="images/example_3.png" title="Example of the hallucinated answer with syntax errors">
 </p>
 
 ## Acknowledgements
@@ -103,6 +103,8 @@ Logical Solver: ---
   url={https://arxiv.org/abs/2305.11747}
 }
 ```
+
+
 
 
 ## Reference
