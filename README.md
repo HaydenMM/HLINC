@@ -8,7 +8,7 @@
 
 ## Overview
 
-HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> hallucinations in knowledge-grounded LLM conversations. Using HaluEval's Q/A dataset (a dataset generated from ChatGPT outputing accurate and hallucinated responses), we test HLINC's ability to detect and explain these hallucinations.
+HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> hallucinations in knowledge-grounded LLM conversations. Using HaluEval's Q/A dataset (a dataset generated from ChatGPT outputing accurate and hallucinated responses from conversations), we test HLINC's ability to detect and explain these hallucinations.
 	
 - **Stage 1** uses ChatGPT as a Semantic Parser, converting Knowledge-Grounded Questions and Answers into Microsoft's Z3 Logical Solver Syntax. 
 - **Stage 2** runs all of the converted code with a Z3 Logical Solver, passing each syntax/error that occurs from the logical solver back through the Semantic Parser (ChatGPT) with the added Syntax Error context.
@@ -31,17 +31,17 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 <table>
   <tr>
     <th>Approach</th>
-    <th>Accuracy</th>
+    <th>Hallucination Detection Accuracy</th>
     <th>Explainability</th>
   </tr>
   <tr>
     <td>ChatGPT w/ Knowledge</td>
-    <td>76.83</td>
+    <td>76.83%</td>
     <td>NO</td>
   </tr>
   <tr>
     <td>HLINC w/ Knowledge</td>
-    <td>--</td>
+    <td>72.62%</td>
     <td>YES</td>
   </tr>
 </table>
@@ -49,6 +49,24 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </body>
 </html>
 
+Stage 1 Results: ---
+
+Stage 1 Explainations: ---
+
+Stage 2 Results: ---
+
+Stage 2 Explainations: ---
+
+Stage 3 Results: ---
+
+Stage 3 Explainations: ---
+
+## Files
+Sematic Parser: ---
+
+Logical Solver: ---
+
+## Appendix
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
   <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
