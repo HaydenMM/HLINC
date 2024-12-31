@@ -50,12 +50,15 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </html>
 
 Stage 1 Results: ---
+
 Stage 1 Explainations: ---
 
 Stage 2 Results: ---
+
 Stage 2 Explainations: ---
 
 Stage 3 Results: ---
+
 Stage 3 Explainations: ---
 
 ## Files
