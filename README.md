@@ -41,7 +41,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   </tr>
   <tr>
     <td>HLINC w/ Knowledge</td>
-    <td>70.04%</td>
+    <td>72.62%</td>
     <td>YES</td>
   </tr>
 </table>
