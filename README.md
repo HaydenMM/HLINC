@@ -55,6 +55,7 @@ Stage 2 Results: ---
 
 Stage 3 Results: ---
 
+## Appendix
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
   <img src="data/example_2.png" title="Example of the right answer with no syntax errors">
