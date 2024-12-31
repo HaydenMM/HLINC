@@ -15,8 +15,39 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 - **Stage 3** runs the Z3 code through the Logic Solver to detect and explain the hallucinations.  
 
 <p align="center">
-  <img src="data/example_1.png" title="HLINC stages">
+  <img src="data/example-1.png" title="HLINC stages">
 </p>
+
+## Results
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Approach</th>
+    <th>Accuracy</th>
+    <th>Explainability</th>
+  </tr>
+  <tr>
+    <td>ChatGPT w/ Knowledge</td>
+    <td>76.83</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HLINC w/ Knowledge</td>
+    <td>--</td>
+    <td>YES</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 #### Example of a Correct Answer with no syntax errors
 <p align="center">
