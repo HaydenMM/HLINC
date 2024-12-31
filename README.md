@@ -55,8 +55,6 @@ Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stag
 Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2.txt)
 
 
-<br>
-
 
 ## Files
 Z3 Sematic Parser: [notebooks/z3_semantic_parser.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_semantic_parser.ipynb)
