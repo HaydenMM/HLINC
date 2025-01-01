@@ -114,7 +114,7 @@ Z3 Logical Solver: [notebooks/z3_logical_solver.ipynb](https://github.com/Hayden
 ```
 @misc{HLINC,
   author = {Hayden Moore},
-  title = {HLINC: A Neurosymbolic Approach for Detecting LLM Hallucinations in Knowledge-Grounded Contexts},
+  title = {HLINC: A Neurosymbolic Approach for Detecting and Explaining LLM Hallucinations in Knowledge-Grounded Contexts},
   year = {2025},
   journal={},
   url={}
