@@ -34,7 +34,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   <tr>
     <td>HaluEval Dialogue w/ Knowledge</td>
     <td>HLINC</td>
-    <td>--</td>
+    <td>8610/10000 (86.10 %)</td>
     <td>YES</td>
   </tr>
   <tr>
@@ -67,10 +67,10 @@ Stage 1: stage-1-dialogue.txt
   
 Stage 2: stage-2-dialogue.txt
 - Syntax Errors Detected: 423/10000 (4.23%)
-- Syntax Errors Fixed: /423
+- Syntax Errors Fixed: 265/423
 
 Stage 3:
-- Correctly Detected Hallucinations: /10000 ( %)
+- Correctly Detected Hallucinations: 8610/10000 (86.10 %)
 
 <br>
 <b>HaluEval Q/A w/ Knowledge</b> <br>
