@@ -32,7 +32,13 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <th>Explainability</th>
   </tr>
   <tr>
-    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>HLINC</td>
+    <td>--</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue w/ Knowledge</td>
     <td>ChatGPT</td>
     <td>--</td>
     <td>NO</td>
@@ -44,20 +50,27 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <td>YES</td>
   </tr>
   <tr>
-    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>HaluEval Q/A w/ Knowledge</td>
     <td>ChatGPT</td>
     <td>--</td>
     <td>NO</td>
   </tr>
-  <tr>
-    <td>HaluEval Dialogue w/ Knowledge</td>
-    <td>HLINC</td>
-    <td>--</td>
-    <td>YES</td>
-  </tr>
+  
 </table>
 
 </body>
+
+<br>
+<b>HaluEval Dialogue w/ Knowledge</b> <br>
+
+Stage 1: stage-1-dialogue.txt
+  
+Stage 2: stage-2-dialogue.txt
+- Syntax Errors Detected: 423/10000 (4.23%)
+- Syntax Errors Fixed: /423
+
+Stage 3:
+- Correctly Detected Hallucinations: 7149/10000 (71.49 %)
 
 <br>
 <b>HaluEval Q/A w/ Knowledge</b> <br>
