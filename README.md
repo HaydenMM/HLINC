@@ -103,7 +103,7 @@ Stage 3:
 ## Files
 Z3 Sematic Parser: [notebooks/z3_semantic_parser.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_semantic_parser.ipynb)
 
-Z3 Logical Solver: [notebooks/z3_logical_solver.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_theorem_prover.ipynb)
+Z3 Logical Solver: [notebooks/z3_theorem_prover.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_theorem_prover.ipynb)
 
 
 <br>
