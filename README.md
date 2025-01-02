@@ -70,7 +70,7 @@ Stage 2: stage-2-dialogue.txt
 - Syntax Errors Fixed: /423
 
 Stage 3:
-- Correctly Detected Hallucinations: 7149/10000 (71.49 %)
+- Correctly Detected Hallucinations: /10000 ( %)
 
 <br>
 <b>HaluEval Q/A w/ Knowledge</b> <br>
