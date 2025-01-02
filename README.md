@@ -31,18 +31,33 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 
 <table>
   <tr>
+    <th>Dataset</th>
     <th>Approach</th>
-    <th>Hallucination Detection Accuracy</th>
+    <th>Correctly Detected Hallucinations</th>
     <th>Explainability</th>
   </tr>
   <tr>
-    <td>ChatGPT w/ Knowledge</td>
-    <td>7683/10000 (76.83%)</td>
+    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>ChatGPT</td>
+    <td>--</td>
     <td>NO</td>
   </tr>
   <tr>
-    <td>HLINC w/ Knowledge</td>
+    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>HLINC</td>
     <td>7149/10000 (71.49%)</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>ChatGPT</td>
+    <td>--</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>HLINC</td>
+    <td>--</td>
     <td>YES</td>
   </tr>
 </table>
@@ -57,7 +72,7 @@ Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stag
 - Syntax Errors Fixed: 489/795
 
 Stage 3:
-- Hallucination Detection Rate: 7149/10000 (71.49 %)
+- Correctly Detected Hallucinations: 7149/10000 (71.49 %)
 
 ## Files
 Z3 Sematic Parser: [notebooks/z3_semantic_parser.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_semantic_parser.ipynb)
