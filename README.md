@@ -43,18 +43,6 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <td>9110/10000 (91.10 %)</td>
     <td>NO</td>
   </tr>
-  <tr>
-    <td>HaluEval Q/A w/ Knowledge</td>
-    <td>HLINC</td>
-    <td>7149/10000 (71.49%)</td>
-    <td>YES</td>
-  </tr>
-  <tr>
-    <td>HaluEval Q/A w/ Knowledge</td>
-    <td>ChatGPT</td>
-    <td>7800/10000 (78.00 %)</td>
-    <td>NO</td>
-  </tr>
   
 </table>
 
@@ -73,6 +61,34 @@ Stage 3:
 - Correctly Detected Hallucinations: 8610/10000 (86.10 %)
 
 <br>
+
+<body>
+
+
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th>Approach</th>
+    <th>Correctly Detected Hallucinations</th>
+    <th>Explainability</th>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>HLINC</td>
+    <td>7149/10000 (71.49%)</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>ChatGPT</td>
+    <td>7800/10000 (78.00 %)</td>
+    <td>NO</td>
+  </tr>
+  
+</table>
+
+</body>
+
 <b>HaluEval Q/A w/ Knowledge</b> <br>
 
 Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1.txt)
