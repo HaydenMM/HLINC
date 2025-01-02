@@ -21,11 +21,6 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 
 ## Results
 
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
 <body>
 
 
@@ -63,7 +58,9 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </table>
 
 </body>
-</html>
+
+<br>
+<b>HaluEval Q/A w/ Knowledge</b> <br>
 
 Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1.txt)
   
