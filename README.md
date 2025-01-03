@@ -91,9 +91,9 @@ Stage 3:
 
 <b>HaluEval Q/A w/ Knowledge</b> <br>
 
-Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-qa.txt)
+Stage 1: [data/stage-1-qa.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-qa.txt)
   
-Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2-qa.txt)
+Stage 2: [data/stage-2-qa.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2-qa.txt)
 - Syntax Errors Detected: 795/10000 (7.95%)
 - Syntax Errors Fixed: 489/795
 
