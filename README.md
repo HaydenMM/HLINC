@@ -51,9 +51,9 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 <br>
 <b>HaluEval Dialogue w/ Knowledge</b> <br>
 
-Stage 1: stage-1-dialogue.txt
+Stage 1: [data/stage-1-dialogue.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-dialogue.txt)
   
-Stage 2: stage-2-dialogue.txt
+Stage 2: [data/stage-2-dialogue.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2-dialogue.txt)
 - Syntax Errors Detected: 423/10000 (4.23%)
 - Syntax Errors Fixed: 265/423
 
