@@ -51,9 +51,9 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 <br>
 <b>HaluEval Dialogue w/ Knowledge</b> <br>
 
-Stage 1: stage-1-dialogue.txt
+Stage 1: [data/stage-1-dialogue.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-dialogue.txt)
   
-Stage 2: stage-2-dialogue.txt
+Stage 2: [data/stage-2-dialogue.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2-dialogue.txt)
 - Syntax Errors Detected: 423/10000 (4.23%)
 - Syntax Errors Fixed: 265/423
 
@@ -91,9 +91,9 @@ Stage 3:
 
 <b>HaluEval Q/A w/ Knowledge</b> <br>
 
-Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1.txt)
+Stage 1: [data/stage-1.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-qa.txt)
   
-Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2.txt)
+Stage 2: [data/stage-2.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-2-qa.txt)
 - Syntax Errors Detected: 795/10000 (7.95%)
 - Syntax Errors Fixed: 489/795
 
@@ -103,7 +103,7 @@ Stage 3:
 ## Files
 Z3 Sematic Parser: [notebooks/z3_semantic_parser.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_semantic_parser.ipynb)
 
-Z3 Logical Solver: [notebooks/z3_logical_solver.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_logical_solver.ipynb)
+Z3 Logical Solver: [notebooks/z3_theorem_prover.ipynb](https://github.com/HaydenMM/HLINC/blob/dev/notebooks/z3_theorem_prover.ipynb)
 
 
 <br>
