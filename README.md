@@ -38,6 +38,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
+    <td>HLINC (GPT-3.5)</td>
+    <td>---</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
     <td>HLINC (Claude 3.5)</td>
     <td>---</td>
     <td>YES</td>
@@ -46,6 +52,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <td>HaluEval Dialogue</td>
     <td>Naive (GPT-4)</td>
     <td>9110/10000 (91.10 %)</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
+    <td>Naive (GPT-3.5)</td>
+    <td>---</td>
     <td>NO</td>
   </tr>
   <tr>
@@ -62,6 +74,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
+    <td>HLINC (GPT-3.5)</td>
+    <td>---</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
     <td>HLINC (Claude 3.5)</td>
     <td>---</td>
     <td>YES</td>
@@ -70,6 +88,12 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <td>HaluEval Q/A</td>
     <td>Naive (GPT-4)</td>
     <td>7800/10000 (78.00 %)</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
+    <td>Naive (GPT-3.5)</td>
+    <td>---</td>
     <td>NO</td>
   </tr>
   <tr>
