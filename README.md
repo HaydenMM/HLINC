@@ -20,6 +20,70 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 
 
 ## Results
+<body>
+
+
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th>Approach</th>
+    <th>Correctly Detected Hallucinations</th>
+    <th>Explainability</th>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
+    <td>HLINC (GPT-4)</td>
+    <td>8610/10000 (86.10 %)</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
+    <td>HLINC (Claude 3.5)</td>
+    <td>---</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
+    <td>Naive (GPT-4)</td>
+    <td>9110/10000 (91.10 %)</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Dialogue</td>
+    <td>Naive (Claude 3.5)</td>
+    <td>---</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
+    <td>HLINC (GPT-4)</td>
+    <td>7149/10000 (71.49%)</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
+    <td>HLINC (Claude 3.5)</td>
+    <td>---</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
+    <td>Naive (GPT-4)</td>
+    <td>7800/10000 (78.00 %)</td>
+    <td>NO</td>
+  </tr>
+  <tr>
+    <td>HaluEval Q/A</td>
+    <td>Naive (Claude 3.5)</td>
+    <td>---</td>
+    <td>NO</td>
+  </tr>
+  
+</table>
+
+</body>
+
+##
 
 <body>
 
@@ -32,13 +96,13 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
     <th>Explainability</th>
   </tr>
   <tr>
-    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>HaluEval Dialogue</td>
     <td>HLINC</td>
     <td>8610/10000 (86.10 %)</td>
     <td>YES</td>
   </tr>
   <tr>
-    <td>HaluEval Dialogue w/ Knowledge</td>
+    <td>HaluEval Dialogue</td>
     <td>ChatGPT</td>
     <td>9110/10000 (91.10 %)</td>
     <td>NO</td>
@@ -49,7 +113,7 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
 </body>
 
 <br>
-<b>HaluEval Dialogue w/ Knowledge</b> <br>
+<b>HaluEval Dialogue</b> <br>
 
 Stage 1: [data/stage-1-dialogue.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-dialogue.txt)
   
@@ -73,13 +137,13 @@ Stage 3:
     <th>Explainability</th>
   </tr>
   <tr>
-    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>HaluEval Q/A</td>
     <td>HLINC</td>
     <td>7149/10000 (71.49%)</td>
     <td>YES</td>
   </tr>
   <tr>
-    <td>HaluEval Q/A w/ Knowledge</td>
+    <td>HaluEval Q/A</td>
     <td>ChatGPT</td>
     <td>7800/10000 (78.00 %)</td>
     <td>NO</td>
@@ -89,7 +153,7 @@ Stage 3:
 
 </body>
 
-<b>HaluEval Q/A w/ Knowledge</b> <br>
+<b>HaluEval Q/A</b> <br>
 
 Stage 1: [data/stage-1-qa.txt](https://github.com/HaydenMM/HLINC/blob/dev/data/stage-1-qa.txt)
   
