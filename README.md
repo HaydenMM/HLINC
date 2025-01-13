@@ -27,54 +27,63 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   <tr>
     <th>Dataset</th>
     <th>Approach</th>
-    <th>Correctly Detected Hallucinations</th>
+    <th>Model</th>
+    <th>Detected Hallucinations</th>
     <th>Explainability</th>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
-    <td>HLINC (GPT-4)</td>
+    <td>HLINC</td>
+    <td>GPT-4</td>
     <td>8610/10000 (86.10 %)</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
-    <td>HLINC (Claude 3.5)</td>
+    <td>HLINC</td>
+    <td>Claude 3.5</td>
     <td>---</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
-    <td>Naive (GPT-4)</td>
+    <td>Naive</td>
+    <td>GPT-4</td>
     <td>9110/10000 (91.10 %)</td>
     <td>NO</td>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
-    <td>Naive (Claude 3.5)</td>
+    <td>Naive</td>
+    <td>Claude 3.5</td>
     <td>---</td>
     <td>NO</td>
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
-    <td>HLINC (GPT-4)</td>
+    <td>HLINC</td>
+    <td>GPT-4</td>
     <td>7149/10000 (71.49%)</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
-    <td>HLINC (Claude 3.5)</td>
+    <td>HLINC</td>
+    <td>Claude 3.5</td>
     <td>---</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
-    <td>Naive (GPT-4)</td>
+    <td>Naive</td>
+    <td>GPT-4</td>
     <td>7800/10000 (78.00 %)</td>
     <td>NO</td>
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
-    <td>Naive (Claude 3.5)</td>
+    <td>Naive</td>
+    <td>Claude 3.5</td>
     <td>---</td>
     <td>NO</td>
   </tr>
@@ -92,18 +101,21 @@ HLINC is a modular neurosymbolic approach for <b>detecting AND explaining</b> ha
   <tr>
     <th>Dataset</th>
     <th>Approach</th>
+    <th>Model</th>
     <th>Correctly Detected Hallucinations</th>
     <th>Explainability</th>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
     <td>HLINC</td>
+    <td>GPT-4</td>
     <td>8610/10000 (86.10 %)</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Dialogue</td>
-    <td>ChatGPT</td>
+    <td>Naive</td>
+    <td>GPT-4</td>
     <td>9110/10000 (91.10 %)</td>
     <td>NO</td>
   </tr>
@@ -139,12 +151,14 @@ Stage 3:
   <tr>
     <td>HaluEval Q/A</td>
     <td>HLINC</td>
+    <td>GPT-4</td>
     <td>7149/10000 (71.49%)</td>
     <td>YES</td>
   </tr>
   <tr>
     <td>HaluEval Q/A</td>
-    <td>ChatGPT</td>
+    <td>Naive</td>
+    <td>GPT-4</td>
     <td>7800/10000 (78.00 %)</td>
     <td>NO</td>
   </tr>
