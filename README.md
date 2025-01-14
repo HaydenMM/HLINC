@@ -145,6 +145,7 @@ Stage 3:
   <tr>
     <th>Dataset</th>
     <th>Approach</th>
+    <th>Model</th>
     <th>Correctly Detected Hallucinations</th>
     <th>Explainability</th>
   </tr>
